@@ -25,11 +25,11 @@ Additional data:
 ## Tableau Storyboard
 
 Explore the final visual analysis here:  
-👉 [Tableau Storyboard – Global Happiness Analysis]([https://public.tableau.com/app/profile/your-name/viz/happiness_project/Story](https://public.tableau.com/app/profile/nico.bui/viz/WhatIsHappinessMadeOf/StoryWhatIsHappinessMadeOf?publish=yes))
+[Tableau Storyboard – Global Happiness Analysis]([https://public.tableau.com/app/profile/your-name/viz/happiness_project/Story](https://public.tableau.com/app/profile/nico.bui/viz/WhatIsHappinessMadeOf/StoryWhatIsHappinessMadeOf?publish=yes))
 
 (Note: This storyboard summarizes final insights, not every step from Python.)
 
-## 💻 Tools Used
+## Tools Used
 
 - Python (Pandas, Matplotlib, Seaborn, Scikit-learn, Folium)
 - Tableau Public
